@@ -7,6 +7,10 @@ This device does not come with a RJ45 or DB9 serial console connection by defaul
 
 Just remove 8 screws from bottom side. Hinge up the top plastic. PCB is held to the aluminum backplane with thermal paste and a thin heatsink distance plate for the SoC and switch. There are also two thermal pads (3mm thick) under the SFP case and under some psu chip above the SFP, the pads will hold back with some force some when lifting the PCB from the backplane.
 
+### PCB Photos
+See the jpg images in this repo for the different views of the board.
+
+
 ### Serial UART
 → [port.serial](https://openwrt.org/docs/techref/hardware/port.serial) general information about the serial port, serial port cable, etc.
 
@@ -44,3 +48,4 @@ Note: the other pins are used for SPI connections, and therefore not needed for 
 - https://help.mikrotik.com/docs/spaces/ROS/pages/328139/Serial+Console
 - https://openwrt.org/toh/mikrotik/common
 - https://forum.openwrt.org/t/add-support-for-mikrotik-rb5009ug/104391/
+- https://forum.openwrt.org/t/mikrotik-rb5009upr-s-in-rb5009ug-with-poe/204897
